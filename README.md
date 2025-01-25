@@ -11,7 +11,7 @@
 - **Link to Dataset**:
   [https://www.kaggle.com/](https://www.kaggle.com/datasets/muhammadshahidazeem/panic-disorder-detection-dataset)
 
-### 2. Image Recognition with the Itel Image Dataset  
+### 2. Image Recognition with the Intel Image Classification Dataset  
 - **Objective**:  
   Leverage a deep learning model to recognize and classify images from the Itel Image dataset on Kaggle.  
 - **Contents**:  
